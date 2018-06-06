@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <defs></defs>
+    <g id="Mobile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square">
+        <g id="subscription-overlay" transform="translate(-266.000000, -57.000000)" stroke="#FFFFFF">
+            <g id="white-x" transform="translate(266.000000, 58.000000)">
+                <g id="Group">
+                    <path d="M0.147058824,0.142857143 L19.8529412,17.8571429" id="Line" transform="translate(10.000000, 9.000000) scale(-1, 1) translate(-10.000000, -9.000000) "></path>
+                    <path d="M0.147058824,0.142857143 L19.8529412,17.8571429" id="Line"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
